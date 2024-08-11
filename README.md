@@ -1,2 +1,2 @@
 # codingclub.github.io
-This is the 2023 - 2024 coding club website
+This is the coding club website
