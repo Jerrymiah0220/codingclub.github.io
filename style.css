@@ -65,6 +65,10 @@ section {
   text-align: center
 }
 
+.content a{
+  color: #ffbbb8 
+    }
+
 .content button {
   background: #eaeaea;
   color: #202134;
